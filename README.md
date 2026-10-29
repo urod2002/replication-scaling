@@ -36,3 +36,4 @@
 
 Приложение обращается к маршрутизатору, который определяет нужный сервер по типу запрашиваемых данных. Для книг по ID записи.
 
+![mermaid-diagram-2026-10-29-221423.png](https://github.com/urod2002/replication-scaling/blob/main/img/mermaid-diagram-2026-10-29-221423.png?raw=true)
